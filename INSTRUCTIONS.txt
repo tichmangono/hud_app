@@ -1,0 +1,20 @@
+1. install libraries, code below
+
+pip install -r requirements.txt
+
+2. Find version of chrome you have see link below
+
+https://www.businessinsider.com/what-version-of-google-chrome-do-i-have
+
+3. Download chrome binary executable at this link for Mac and put it in the same folder as the app. Make sure the chrome driver 
+you download works for the version of chrome you have (from step #2)
+
+https://chromedriver.chromium.org/downloads
+
+4. Run application, code below
+
+python3 HUDScraperApp.py
+
+5. Test the application once it comes up
+
+ 
